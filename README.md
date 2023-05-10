@@ -1,5 +1,11 @@
-# =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*= Recreating the System-Wide FD Tables =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+# Recreating the System-Wide FD Tables 
 # An assignment for CSCB09
+Quick Information
+===================================
+This application is developed in C and is targetted only towards Linux systems.
+This has only been tested on an Ubuntu machine.
+It reports the FD specific information regarding all user owned processes (or can be just one depending on the command-line arguments)
+
 Program Usage
 ===================================
 1) If there is no compiled file (no "main" file in this directory) then please open terminal and navigate to the directory where you found this README file and execute in the terminal
